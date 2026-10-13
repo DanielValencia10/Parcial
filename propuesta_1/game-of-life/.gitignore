@@ -1,0 +1,6 @@
+out/
+*.class
+__pycache__/
+plots/*.png
+.idea/
+.vscode/

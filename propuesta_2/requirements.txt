@@ -1,0 +1,8 @@
+# Librerías externas. Todo lo demás es biblioteca estándar de Python.
+numpy        # [VISTO EN CLASE: Taller 4] V4 y renderizado de la GUI
+pygame-ce    # [FUERA DE CLASE] GUI exigida por el enunciado. Mismo `import pygame`.
+             # Se usa pygame-ce porque pygame aún no publica instalador para Python 3.14.
+             # Con Python <= 3.13 también sirve `pygame`.
+matplotlib   # gráficas (ya usado en el Taller 4)
+mpi4py       # [FUERA DE CLASE] SOLO para V5 (MPI). Además requiere el runtime MS-MPI:
+             #   winget install Microsoft.msmpi

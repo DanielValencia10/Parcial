@@ -1,0 +1,11 @@
+Núcleos lógicos: 16
+CPU: AMD Ryzen 7 8845HS w/ Radeon 780M Graphics
+Núcleos físicos: 8
+RAM: 15,3 GB
+Plan de energía: GUID de plan de energía: 381b4222-f694-41f0-9685-ff5bb260df2e  (Equilibrado)
+Sistema operativo: Windows-11-10.0.26300-SP0
+Versión de Python: 3.14.5 (con GIL)
+numpy: 2.5.3
+mpi4py: 4.1.2
+matplotlib: 3.11.2
+Otras aplicaciones abiertas: (anotar a mano; cerrar las pesadas antes de medir)
